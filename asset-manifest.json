@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MERN_Internship_3.2/static/css/main.8519ed8d.css",
+    "main.js": "/MERN_Internship_3.2/static/js/main.02d5329f.js",
+    "static/media/moon.png": "/MERN_Internship_3.2/static/media/moon.ed34e3ccb9cc98e025d1.png",
+    "static/media/sun.png": "/MERN_Internship_3.2/static/media/sun.c083fc151ebd00ab40a2.png",
+    "index.html": "/MERN_Internship_3.2/index.html",
+    "main.8519ed8d.css.map": "/MERN_Internship_3.2/static/css/main.8519ed8d.css.map",
+    "main.02d5329f.js.map": "/MERN_Internship_3.2/static/js/main.02d5329f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8519ed8d.css",
+    "static/js/main.02d5329f.js"
+  ]
+}
